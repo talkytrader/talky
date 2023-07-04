@@ -57,6 +57,8 @@
 
 ## Commands
 
+https://github.com/mraniki/tt/blob/5b62d588ead6bc2dcd850cfede26e59c4e648d3a/tt/talky_settings.toml#L46
+
 - /bal Query user account exchange balance
 - /trading Disable or Enable trading
 - /q wBTC retrieve the lastest asset quote
@@ -65,12 +67,8 @@
 
 ## Configuration
 
+https://github.com/mraniki/tt/blob/5b62d588ead6bc2dcd850cfede26e59c4e648d3a/tt/talky_settings.toml#L1
 
-https://github.com/mraniki/tt/blob/dc394d42d18e3718e0062f32cdfccb006b9c716a/examples/example.env#L2
-
-
-
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fmraniki%2Ftt%2Fblob%2Fmain%2Fexamples%2Fexample.env&style=default&type=markdown&showLineNumbers=on&showCopy=on&fetchFromJsDelivr=on"> </script>
 
 
 <br>
